@@ -1,4 +1,7 @@
-How the program works
-1)Observe and make best effort to remember cards that are face up
-2)Shuffles cards 
-3)identify the placement of the prior face up cards
+<h3>How the program works</h3>
+<ol>
+  <li>Observe and make best effort to remember cards that are face up</li>
+<li>Shuffles cards</li>
+<li>identify the placement of the prior face up cards</li>
+
+  </ol>
